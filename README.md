@@ -140,4 +140,6 @@ npm run dev
 ---
 
 ## 📧 Contact
-For questions or support, open an issue or contact the maintainer. 
+For questions or support, open an issue 
+Name: Sanjay Kirti
+E-mail: lukebrushwood@gmail.com
